@@ -37,7 +37,7 @@ This dashboard provides insights into **sales, profit, and customer trends** for
 ---
 
 ## 🛠️ Tools Used
-- Power BI / Tableau  
+- Power BI   
 - Superstore dataset (Sales, Profit, Customer, Shipping, Returns).  
 
 ---
